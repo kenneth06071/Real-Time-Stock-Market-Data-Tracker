@@ -1,7 +1,7 @@
 # Real-Time-Stock-Market-Data-Tracker
 This program is built by python, which can be compiled by vs code and Python IDLE
 
-The source code is stored as "CSCI2100_project_source_code"
+The source code is stored as "project_source_code"
 
 Only "random" module is needed for this program. 
 
